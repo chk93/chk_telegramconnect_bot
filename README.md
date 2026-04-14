@@ -1,2 +1,4 @@
-# chk_telegramconnect_bot
-A bot that will help people with a spam block on their telegram account to DM you
+# chk telegram connect bot
+My first project on rust, it takes about five hours 
+Star it please, if you found it helpful.
+Thank you <3
